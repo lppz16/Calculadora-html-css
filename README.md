@@ -16,9 +16,7 @@
 
 **7.** [Captura del código](#captura-del-codigo)
 
-**8.** [Captura de la ejecución del códgio](#captura-de-la-ejecución-del-código)
-
-**9.** [Autor](#autor)
+**8.** [Autor](#autor)
 
 ## Descripción 
 Este proyecto es una calculadora web interactiva que permite a los usuarios realizar operaciones matemáticas, así como el cálculo del Mínimo Común Múltiplo (MCM), el Máximo Común Divisor (MCD), suma, resta, división, multiplicación y división. La interfaz es intuitiva y está diseñada para ser accesible desde diferentes dispositivos, gracias a su diseño responsivo. La calculadora incluye campos para ingresar hasta tres números y una lista desplegable para seleccionar la operación deseada. Además, tiene un link a través del cual instruye a sus usuario sobre cómo utilizar esta calculadora.
@@ -110,12 +108,9 @@ La estructura del código está organizada de la siguiente manera:
 
 **5. JavaScript:** Incrustado en el archivo HTML, se encarga de la lógica de la calculadora, incluyendo las funciones para realizar las operaciones matemáticas y calcular el MCM y el MCD.
 
-## Captura del código:
+## Captura del proyecto:
 
-![Python](https://github.com/lppz16/Integraci-n-de-c-digo/blob/71b35beaf64e2e027dbe3167e2a0e74881540f82/Material%20Digital/Captura%20de%20pantalla%202024-09-23%20145340.png)
-
-## Captura de la ejecución del código:
-![Python](https://github.com/lppz16/Integraci-n-de-c-digo/blob/main/Material%20Digital/Captura%20de%20pantalla%202024-09-23%20145653.png)
+[![Python](https://github.com/lppz16/Integraci-n-de-c-digo/blob/71b35beaf64e2e027dbe3167e2a0e74881540f82/Material%20Digital/Captura%20de%20pantalla%202024-09-23%20145340.png)](https://github.com/lppz16/Calculadora-html-css/blob/dcba2f7660a397190ba203851b9e1db642413ad2/Img/Captura%20de%20pantalla%202024-10-05%20233251.png)
 
 ## Autor
 
