@@ -110,8 +110,8 @@ La estructura del código está organizada de la siguiente manera:
 
 ## Captura del proyecto:
 
-https://github.com/lppz16/Calculadora-html-css/blob/91724aa8ed72772434284d916592f4591a55958e/Img/Captura%20de%20pantalla%202024-10-05%20233303.png
-
+[https://github.com/lppz16/Calculadora-html-css/blob/91724aa8ed72772434284d916592f4591a55958e/Img/Captura%20de%20pantalla%202024-10-05%20233303.png
+](https://github.com/lppz16/Calculadora-html-css/blob/63e91f37d015c7aa0dcdd2550d24ef562899a171/Img/Captura%20de%20pantalla%202024-10-05%20233251.png)
 ## Autor
 
 Yan Frank Ríos López
