@@ -23,10 +23,7 @@ Este proyecto es una calculadora web interactiva que permite a los usuarios real
 
 ### Primera parte: Estructura HTML
 
-El archivo index.html inicia definiendo la estructura básica de la página web. Se incluye la etiqueta <meta> que establece la vista responsiva, permitiendo que la calculadora se adapte a diferentes tamaños de pantalla.
-A continuación, se establece el título de la página como "Calculadora". Se enlaza un archivo de estilos CSS (style.css) para aplicar el diseño visual.
-Dentro del cuerpo (<body>), se crea un encabezado "(<headerr>)" que contiene un título principal <h1> que dice "Calculadora". Debajo del título, se incluye un menú de navegación que permite al usuario acceder a la página de instrucciones a través de un enlace.
-La sección principal del cuerpo incluye un formulario donde el usuario puede ingresar los datos requeridos para realizar cálculos. Hay tres campos de entrada, donde el segundo y tercer campos son numéricos. La operación que se desea realizar se selecciona a través de un menú desplegable.
+El archivo index.html define la estructura básica de la página web. Se incluye la etiqueta <meta> que establece la vista responsiva, permitiendo que la calculadora se adapte a diferentes tamaños de pantalla. El título de la página se establece como "Calculadora" y se vincula un archivo de estilos CSS (style.css) para aplicar el diseño visual. Dentro del cuerpo (<body>), se crea un encabezado <header> que contiene un título principal <h1> que dice "Calculadora". Debajo del título, se incluye un menú de navegación que permite al usuario acceder a la página de instrucciones a través de un enlace. La sección principal del cuerpo incluye un formulario donde el usuario puede ingresar los datos requeridos para realizar cálculos. Hay tres campos de entrada, donde el segundo y tercer campos son numéricos, y la operación deseada se selecciona a través de un menú desplegable.
 
 ### Segunda parte: Funcionalidad de JavaScript
 
@@ -108,10 +105,8 @@ La estructura del código está organizada de la siguiente manera:
 
 **5. JavaScript:** Incrustado en el archivo HTML, se encarga de la lógica de la calculadora, incluyendo las funciones para realizar las operaciones matemáticas y calcular el MCM y el MCD.
 
-## Captura del proyecto:[
+## Captura del proyecto:
 
-[https://github.com/lppz16/Calculadora-html-css/blob/91724aa8ed72772434284d916592f4591a55958e/Img/Captura%20de%20pantalla%202024-10-05%20233303.png
-](https://github.com/lppz16/Calculadora-html-css/blob/63e91f37d015c7aa0dcdd2550d24ef562899a171/Img/Captura%20de%20pantalla%202024-10-05%20233251.png)](https://github.com/lppz16/Calculadora-html-css/blob/main/Img/Captura%20de%20pantalla%202024-10-05%20233251.png?raw=true)
 ## Autor
 
 Yan Frank Ríos López
