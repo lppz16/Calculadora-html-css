@@ -110,7 +110,7 @@ La estructura del código está organizada de la siguiente manera:
 
 ## Captura del proyecto:
 
-[![Python](https://github.com/lppz16/Integraci-n-de-c-digo/blob/71b35beaf64e2e027dbe3167e2a0e74881540f82/Material%20Digital/Captura%20de%20pantalla%202024-09-23%20145340.png)](https://github.com/lppz16/Calculadora-html-css/blob/dcba2f7660a397190ba203851b9e1db642413ad2/Img/Captura%20de%20pantalla%202024-10-05%20233251.png)
+https://github.com/lppz16/Calculadora-html-css/blob/91724aa8ed72772434284d916592f4591a55958e/Img/Captura%20de%20pantalla%202024-10-05%20233303.png
 
 ## Autor
 
