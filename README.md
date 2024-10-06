@@ -107,7 +107,7 @@ La estructura del código está organizada de la siguiente manera:
 
 ## Captura del proyecto:
 
-[Página principal](https://github.com/lppz16/Calculadora-html-css/blob/main/Img/Captura%20de%20pantalla%202024-10-05%20233251.png?raw=true)
+![Página principal](https://github.com/lppz16/Calculadora-html-css/blob/main/Img/Captura%20de%20pantalla%202024-10-05%20233251.png?raw=true)
 
 ## Autor
 
