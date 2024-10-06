@@ -18,9 +18,7 @@
 
 **8.** [Captura de la ejecución del códgio](#captura-de-la-ejecución-del-código)
 
-**9.** [Video](#video)
-
-**10.** [Autor](#autor)
+**9.** [Autor](#autor)
 
 ## Descripción 
 Este proyecto es una calculadora web interactiva que permite a los usuarios realizar operaciones matemáticas, así como el cálculo del Mínimo Común Múltiplo (MCM), el Máximo Común Divisor (MCD), suma, resta, división, multiplicación y división. La interfaz es intuitiva y está diseñada para ser accesible desde diferentes dispositivos, gracias a su diseño responsivo. La calculadora incluye campos para ingresar hasta tres números y una lista desplegable para seleccionar la operación deseada. Además, tiene un link a través del cual instruye a sus usuario sobre cómo utilizar esta calculadora.
@@ -60,7 +58,7 @@ Los estilos aplicados a los elementos de la interfaz, como botones y campos de e
 
 Para clonar este proyecto, puedes utilizar Git. Asegúrate de tener Git instalado en tu sistema. Luego, puedes clonar el repositorio ejecutando el siguiente comando en tu terminal:
 
-Copiar código: **git clone <URL del repositorio>**
+Copiar código: **git clone <[URL del repositorio](https://github.com/lppz16/Calculadora-html-css.git)>**
 
 ## Instalación
 Para ejecutar la calculadora en tu propio entorno, sigue estos pasos:
@@ -68,7 +66,7 @@ Para ejecutar la calculadora en tu propio entorno, sigue estos pasos:
 **1.** Clona el repositorio utilizando el comando mencionado anteriormente.
 
 **2.** Navega al directorio del proyecto:
-Copiar código: **cd nombre-del-repositorio**
+Copiar código: **cd Calculadora-html-css**
 
 **3.** Abre el archivo index.html en tu navegador preferido. Puedes hacerlo haciendo doble clic en el archivo o arrastrándolo a la ventana del navegador.
 
