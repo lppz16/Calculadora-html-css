@@ -1,4 +1,6 @@
 # Proyecto de Calculadora en **html** y **css**
+![Static Badge](https://img.shields.io/badge/Python-12-red?logo=Python&logoColor=white)
+
 
 ## índice
 
